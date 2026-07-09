@@ -1,0 +1,9 @@
+const express = require("express");
+
+const router = express.Router();
+
+const { clerkWebhook } = require("../controllers/webhookController");
+
+router.post("/clerk", clerkWebhook);
+
+module.exports = router;
