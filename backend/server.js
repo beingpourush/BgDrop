@@ -6,7 +6,7 @@ const { clerkMiddleware } = require("@clerk/express");
 
 require("./config/mongodb");
 
-const webhookRouter = require("./routes/webhookRoutes");
+const webhookRouter = require("./routes/webHookRoutes");
 const userRouter = require("./routes/userRoutes");
 const imageRouter = require('./routes/imageRoutes')
 
