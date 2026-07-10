@@ -6,9 +6,11 @@
 
 ## 🚀 Live Demo
 
-🌐 **Application:** *(Coming Soon)*
+🌐 **Application:** https://bg-drop.vercel.app
 
----
+> **Note**
+>
+> The application uses the Clipdrop Background Removal API. The live demo is powered by the API's limited free-tier credits, so background removal may be temporarily unavailable if the available credits are exhausted.
 
 ## ✨ Features
 
